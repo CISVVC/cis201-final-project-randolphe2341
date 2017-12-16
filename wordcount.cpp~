@@ -1,9 +1,3 @@
-/**
- * File: wordcount.cpp
- * Author: Ethan Randolph
- * Email: randolphe@student.vvc.edu
- * Description: This is the implementation of the Wordcount class
- */
 #include "wordcount.h"
 
 
